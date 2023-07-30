@@ -7,23 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Step by step to use the application:
+## Step by step to use the application
 
-Use: git clone.
+- Use: git clone.
 
-Access the root directory, open the terminal and use the command: composer install
+- Access the root directory, open the terminal and use the command: composer install
 
-Copy the file ".env.example", paste from the root directory and then edit leaving only .env
+- Copy the file ".env.example", paste from the root directory and then edit leaving only .env
 
-Open the .env file and configure the Database and the Mail Mailer.
+- Open the .env file and configure the Database and the Mail Mailer.
 
-Use the command: php artisan migrate in the terminal inside the root directory to create the tables.
+- Use the command: php artisan migrate in the terminal inside the root directory to create the tables.
 
-Use the command: php artisan db:seed --class=RacasSeed to generate the Breeds of the animals in the database.
+- Use the command: php artisan db:seed --class=RacasSeed to generate the Breeds of the animals in the database.
 
-Use the command: php artisan serve
+- Use the command: php artisan serve
 
-Enjoy it.
+- Enjoy it!
 
 ## About Laravel
 
